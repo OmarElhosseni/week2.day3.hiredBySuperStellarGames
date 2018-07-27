@@ -44,7 +44,7 @@
 
 
 ## Extra Credit
-- Try using [animate.css](https://daneden.github.io/animate.css/) to add some cool animations to your site 
+- Try using [animate.css](https://daneden.github.io/animate.css/) to add some cool animations to your site
   - Download animate.css and for the elements you want animated, simply add “animated” to the class along with the kind of animation you want. For example:
     ```html
     <div class="animated jello"> … </div>

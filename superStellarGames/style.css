@@ -1,0 +1,84 @@
+body {
+  background-color: white;
+  /* justify-content: center; */
+  font-family: 'Nunito Sans',Helvetica,Arial,sans-serif;
+  margin-top: 0;
+  text-align: center;
+  /* display: flex; */
+}
+
+h2 {
+  text-align: center;
+  width: 55vw;
+  margin-top: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 46px;
+}
+
+#top {
+  align-content: center;
+  margin-top: 5%;
+  font-size: 46px;
+  font-weight: bold;
+}
+p {
+  font-size:20px;
+}
+#small_message {
+  margin-top: 160px;
+  display: block;
+  margin-bottom: 50px;
+}
+#small_message p {
+  display: inline;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+#arrow {
+  width: 40px;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+.game {
+  margin-left: auto;
+  margin-right: auto;
+  width: 75vw;
+  height: 77vh;
+  background-size: cover;
+  margin-bottom: 150px;
+}
+#firstGame {
+  background-image: url(images/Game1.webp);
+  position: relative;
+}
+#secondGame {
+  background-image: url(images/Game2.jpg);
+}
+#thirdGame {
+  background-image: url(images/Game3.jpg);
+}
+.text-block {
+    position: relative;
+    bottom: 50px;
+    left: 70px;
+    top: 335px;
+    background-color: black;
+    opacity: .8;
+    color: white;
+    padding-left: 70px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    width: 33vw;
+    height: 26vh;
+}
+.text-block h1{
+  margin-top: 50px;
+  font-size: 50px;
+  text-align: left;
+}
+.text-block p{
+  font-size: 20px;
+  text-align: left;
+}
